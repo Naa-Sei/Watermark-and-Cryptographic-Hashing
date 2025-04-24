@@ -1,5 +1,5 @@
 # WateRF: Enhancing Robust Watermarks in Radiance Fields through Crytographic Hashing for Protection of Copyrights (CVPR 2024)
-Emmanuel O Ansah(KWAME NKRUMAH SCIENCE AND TECHNOLOGY)
+Emmanuel O Ansah(KWAME NKRUMAH UNIVERSITY OF SCIENCE AND TECHNOLOGY)
 
 Official Pytorch Implementation of WateRF and Crytographic Hashing.
 
