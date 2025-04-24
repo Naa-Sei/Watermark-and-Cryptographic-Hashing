@@ -3,8 +3,8 @@ Emmanuel O Ansah(KWAME NKRUMAH SCIENCE AND TECHNOLOGY)
 
 Official Pytorch Implementation of WateRF and Crytographic Hashing.
 
-Paper: [arXiv](https://arxiv.org/abs/2405.02066) | [CVPR 2024 Open Access](https://openaccess.thecvf.com/content/CVPR2024/html/Jang_WateRF_Robust_Watermarks_in_Radiance_Fields_for_Protection_of_Copyrights_CVPR_2024_paper.html)<br>
-Project Page: https://kuai-lab.github.io/cvpr2024waterf/
+Paper: [arXiv](https://arxiv.org/abs/2405.02066) | [CVPR 2024 Open Access] LINK TO THE MODIFIED CODE (https://github.com/Naa-Sei/Watermark-and-Cryptographic-Hashingl)<br>
+Link to the Original Code: https://kuai-lab.github.io/cvpr2024waterf/
 
 <p align="center">
     <img src="./assets/teaser.png" alt="center" width="70%">
